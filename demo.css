@@ -1,0 +1,20 @@
+﻿body { font-family: Georgia;margin: 0; }
+h1 { background: cornflowerblue;color: white;font-style: italic;padding: 20px 30px;margin-top: 0;}
+h2, p { margin: 20px;clear: both; }
+li { margin-bottom: 10px; }
+p a { margin-right: 1em; }
+a:link, a:visited { color: blue;}
+
+.hcal, .rss, .email, .rss-email, .xml, .pdf, .doc, .rtf, .xls, .wma, .mp3, .ppt, .jpg, .html, .file, .new-window, .facebook, .twitter, .youtube, .flickr
+{ background-image: url(item-type.gif); background-repeat: no-repeat; padding-left: 23px; }
+
+.pdf { background-position: 0 -248px; }
+.doc, .rtf { background-position: 0 -298px; padding-left: 20px;  }
+.twitter { background-position: 0 -1300px; padding-left: 20px; }
+
+.demo-box { margin: 10px 20px;padding: .692308em;border-radius: 5px;}
+.demo-box.small {background: lightskyblue;color: #000;}
+.demo-box.medium { background: seagreen;color: #fff;}
+.demo-box.large { background: plum;color: #000;}
+
+.content, .other { overflow: hidden;}

@@ -1,0 +1,8 @@
+﻿/* Reusable styles to control when elements appear and disappear */
+.medium, .large { display: none; }
+.small { display: block; }
+
+/* Coloured boxes to demo responsive design */
+.container { margin: 20px;overflow: hidden;}
+.content { background: gainsboro; min-height: 12em;}
+.other { background: gold;min-height: 12em;}

@@ -1,0 +1,3 @@
+﻿/* Reusable styles to control when elements appear and disappear */
+.medium { display: none; }
+.large { display: block; }

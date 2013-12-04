@@ -1,0 +1,7 @@
+﻿/* Reusable styles to control when elements appear and disappear */
+.small, .large { display: none; }
+.medium { display: block; }
+
+/* Demonstrate changing the layout */
+.content { float: left; width: 70%;}
+.other { float: right; width: 30%;}
